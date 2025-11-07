@@ -53,20 +53,3 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 ## 🌟 Vision Statement  
 
 > To create an accessible, modular, and efficient computer vision solution for real-time human flow analytics — turning ordinary CCTV feeds into actionable insights.
-
----
-
-## 🧩 Project Structure  
-
-```plaintext
-vision-footfall-tracker/
-│
-├── app.py                     # Streamlit UI entry point
-├── models/                    # YOLOv8 weights and configs
-├── trackers/                  # SORT, DeepSORT, ByteTrack, BOT-SORT scripts
-├── utils/                     # Helper functions and ROI processors
-├── datasets/                  # (Ignored by .gitignore)
-├── runs/                      # Generated outputs (ignored)
-├── mlruns/                    # MLflow experiments (ignored)
-├── requirements.txt            # Dependencies list
-└── README.md                   # Project documentation
