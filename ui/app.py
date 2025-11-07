@@ -125,7 +125,6 @@ st.markdown(
 # ------------------------------------------------------------
 # Bottom Navigation Controls
 # ------------------------------------------------------------
-# Each page has a previous and next option for smoother navigation.
 col_prev, col_spacer, col_next = st.columns([1, 6, 1])
 
 with col_prev:
