@@ -25,6 +25,15 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 
 ---
 
+## 📂 Datasets Used  
+
+| Dataset | Description | Link |
+|---------|-------------|------|
+| **JHU-CROWD Dataset** | High-density scenes with head-level annotations (roads, public gatherings, swimming pools). Great for learning detection under occlusion and crowding scenarios, but introduces domain mismatch for typical CCTV footfall use cases. | https://www.kaggle.com/datasets/hoangxuanviet/jhu-crowd |
+| **Head Detection CCTV Dataset** | ~1,700 images collected from overhead/fixed CCTV angles. Ideal for real-world entry/exit monitoring and doorway tracking, improving model context adaptation and stability. | https://www.kaggle.com/datasets/hoangxuanviet/head-detection-cctv |
+
+---
+
 ## 🏗️ Applications  
 
 | Sector | Description |
