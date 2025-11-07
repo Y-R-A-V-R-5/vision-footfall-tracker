@@ -42,11 +42,10 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 | Component | Technology |
 |------------|-------------|
 | **Detection** | YOLOv8 (Ultralytics) |
-| **Tracking** | SORT / DeepSORT / ByteTrack / BOT-SORT |
+| **Tracking** | SORT / DeepSORT  |
 | **UI** | Streamlit + Plotly |
 | **Data Handling** | OpenCV, NumPy, Pandas |
 | **Experiment Management** | MLflow |
-| **Deployment** | Local and Cloud environments supported |
 
 ---
 
