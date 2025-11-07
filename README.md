@@ -15,7 +15,7 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 ## 🚀 Key Features  
 
 - 🎯 **Accurate Detection** — Head-based YOLOv8 detection optimized for CCTV and overhead views.  
-- 🔍 **Robust Tracking** — Smooth ID tracking using multiple algorithms (**SORT**, **DeepSORT**, **ByteTrack**, **BOT-SORT**).  
+- 🔍 **Robust Tracking** — Smooth ID tracking using multiple algorithms (**SORT**, **DeepSORT**).  
 - 🧩 **Flexible ROI** — Automatic or manual ROI line definition adaptable to various video dimensions.  
 - 📈 **Smart Analytics** — Real-time entry/exit counts and trend visualization.  
 - 🧠 **Interactive UI** — Multi-page **Streamlit** dashboard with intuitive controls, live metrics, and export options.  
