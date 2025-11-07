@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs and configs
+venv/
+.env/
+
+# OS files
+.DS_Store
+
+# Project-specific
+.ffc/
+datasets/human-head-detection-openvm
+datasets/jhu-crowd
+runs/
+mlruns/
+*.pt
+*.yaml
+
+# Logs and temp files
+*.log
+*.tmp

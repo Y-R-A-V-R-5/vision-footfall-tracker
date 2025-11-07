@@ -1,0 +1,23 @@
+# Core CV + ML
+ultralytics>=8.1.0
+opencv-python-headless
+numpy
+pandas
+scipy
+pyyaml
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+
+# UI
+streamlit
+streamlit-webrtc  # if you plan real-time webcam
+plotly            # optional for visual metrics
+
+# Experiment Tracking
+mlflow
+
+# Dataset Access
+kagglehub
