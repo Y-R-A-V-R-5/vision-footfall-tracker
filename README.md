@@ -15,11 +15,11 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 ## 🚀 Key Features  
 
 - 🎯 **Accurate Detection** — Head-based YOLOv8 detection optimized for CCTV and overhead views.  
-- 🔍 **Robust Tracking** — Smooth ID tracking using multiple algorithms (**SORT**, **DeepSORT**).  
+- 🔍 **Robust Tracking** — Smooth ID tracking using multiple algorithms (**SORT**, **DeepSORT**, **ByteTrack**, **BOT-SORT**).
 - 🧩 **Flexible ROI** — Automatic or manual ROI line definition adaptable to various video dimensions.  
 - 📈 **Smart Analytics** — Real-time entry/exit counts and trend visualization.  
-- 🧠 **Interactive UI** — Multi-page **Streamlit** dashboard with intuitive controls, live metrics, and export options.  
-- ⚙️ **Customizable Models** — Compare **YOLOv8-small** vs **YOLOv8-medium** side-by-side performance.  
+- 🧠 **Interactive UI** — Multi-page Streamlit dashboard with configurable controls, live metrics, and export options.
+- ⚙️ **Customizable Models** — Side-by-side comparison of **YOLOv8-small** vs **YOLOv8-medium** for accuracy–latency trade-offs.
 - 📹 **Multi-Source Support** — Process uploaded videos or live webcam feeds seamlessly.  
 - 💾 **Exportable Results** — Save processed videos, CSV summaries, and configuration snapshots.  
 
@@ -46,7 +46,7 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tracking  
 
 | Component | Technology |
 |------------|-------------|
@@ -60,4 +60,4 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 
 ## 🌟 Vision Statement  
 
-> To create an accessible, modular, and efficient computer vision solution for real-time human flow analytics — turning ordinary CCTV feeds into actionable insights.
+> To create an accessible, modular, and efficient computer vision system for real-time human flow analytics under real-world CCTV constraints.
