@@ -46,7 +46,7 @@ It transforms ordinary CCTV feeds into actionable insights — offering detectio
 
 ---
 
-## ⚙️ Tracking  
+## ⚙️ Tech Stack  
 
 | Component | Technology |
 |------------|-------------|
